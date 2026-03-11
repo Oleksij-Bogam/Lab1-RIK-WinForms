@@ -24,15 +24,6 @@
 - Windows Forms
 - Visual Studio
 
-## Структура проєкту
-Lab1_Survey_WinForms
-│
-├── Form1.cs // логіка форми
-├── Form1.Designer.cs // елементи інтерфейсу
-├── Program.cs // точка входу програми
-└── README.md
-
-
 ## Приклад роботи
 
 1. Користувач запускає програму.
